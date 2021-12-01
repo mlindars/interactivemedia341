@@ -1,0 +1,21 @@
+body {
+    background-color: #D1CCB6;
+    color: #4C6B55;
+   font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+
+#container {
+    display: flex;
+    flex-direction: column;
+    float: left;
+    justify-content: center;
+    min-height: 80vh;
+    padding: 10px;
+    width: 100%;
+}
+
+
