@@ -1,0 +1,15 @@
+div.one {
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 250px;
+    letter-spacing: 6px;
+    word-spacing: -5px;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none solid rgb(68, 68, 68);
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;
+    
+}
+
+

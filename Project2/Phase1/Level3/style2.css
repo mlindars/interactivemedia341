@@ -1,0 +1,45 @@
+div.you {
+    transform: rotate(200deg);
+    text-transform: uppercase;
+    
+}
+div.you2 {
+    transform: rotate(-150deg);
+    text-transform: uppercase;
+}
+div.you3 {
+    transform: rotate(-120deg);
+    text-transform: uppercase;
+}
+div.you4 {
+    transform: rotate(200deg);
+    text-transform: uppercase;
+}
+div.you5 {
+    transform: rotate(280deg);
+    text-transform: uppercase;
+    
+}
+div.you6 {
+    transform: rotate(291deg);
+    text-transform: uppercase;
+}
+div.you7 {
+    transform: rotate(310deg);
+    text-transform: uppercase;
+}
+
+div.you8 {
+    transform: rotate(-180deg);
+    text-transform: uppercase;
+}
+
+div.you9 {
+    transform: rotate(-120deg);
+    text-transform: uppercase;
+}
+
+div.you10 {
+    transform: rotate(-20deg);
+    text-transform: uppercase;
+}

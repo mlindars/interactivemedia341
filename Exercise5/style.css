@@ -49,14 +49,25 @@ body {
   left:465px;
  }
  
- .CBD {
+.blink {
+  animation: blinker 5s linear infinite;
   font-family: Arial, Helvetica, sans-serif;
   color: gold;
   font-size: 70px;
   position: absolute;
   top:320px;
   left:466px;
- }
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+
+ 
+
 
  .rogue {
   font-family: Arial, Helvetica, sans-serif;
@@ -111,4 +122,17 @@ body {
   border-radius: 90px / 100px;
   }
   
+  .Blink1 {
+    width:8px;
+    height: 8px;
+    background: rgb(13, 255, 0);
+    margin: auto;
+    position: absolute;
+    top:1030px;
+    left:550px;
+    border-radius: 90px / 100px;
+
+    animation: blinker 5s linear infinite;
+    
   
+    }

@@ -1,0 +1,151 @@
+body {
+	background: linear-gradient(-90deg, #622be4, #9772ec, #daccf9);
+	background-size: 600% 600%;
+	animation: gradient 11s ease-in-out;
+	height: 1000px;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+
+
+
+  
+  .one {
+	text-transform: uppercase;
+	font-family: 'helvetica';	
+	font-size: 50px;
+	font-weight: 300;
+	color: #9772ec;
+	position: absolute;
+	text-align: center;
+	top: 30%;
+	left: 50%;
+	width: 100%;
+	transform: translate(-50%, -50%);
+  
+  }
+	.two {
+	text-transform: uppercase;
+	font-family: 'helvetica';	
+	font-size: 50px;
+	font-weight: 300;
+	color: #daccf9;
+	position: absolute;
+	text-align: center;
+	top: 35%;
+	left: 50%;
+	width: 100%;
+	transform: translate(-50%, -50%);
+  
+  }
+  .three {
+	text-transform: uppercase;
+	font-family: 'helvetica';	
+	font-size: 50px;
+	font-weight: 300;
+	color: #622be4;
+	position: absolute;
+	text-align: center;
+	top: 40%;
+	left: 50%;
+	width: 100%;
+	transform: translate(-50%, -50%);
+  
+  }
+
+  .four {
+	text-transform: uppercase;
+	font-family: helvetica;	
+	font-size: 50px;
+	font-weight: 300;
+	color: #9772ec;
+	position: absolute;
+	text-align: center;
+	top: 45%;
+	left: 50%;
+	width: 100%;
+	transform: translate(-50%, -50%);
+  
+  }
+
+  .five {
+	text-transform: uppercase;
+	font-family: helvetica;	
+	font-size: 50px;
+	font-weight: 300;
+	color: #ceb9fc;
+	position: absolute;
+	text-align: center;
+	top: 50%;
+	left: 50%;
+	width: 100%;
+	transform: translate(-50%, -50%);
+  
+  }
+  
+  .six {
+	text-transform: uppercase;
+	font-family: helvetica;	
+	font-size: 50px;
+	font-weight: 300;
+	color: #622be4;
+	position: absolute;
+	text-align: center;
+	top: 55%;
+	left: 50%;
+	width: 100%;
+	transform: translate(-50%, -50%);
+  
+  }
+   .seven {
+	text-transform: uppercase;
+	font-family: helvetica;	
+	font-size: 50px;
+	font-weight: 300;
+	color: #9772ec;
+	position: absolute;
+	text-align: center;
+	top: 60%;
+	left: 50%;
+	width: 100%;
+	transform: translate(-50%, -50%);
+  
+  }
+  .eight {
+	text-transform: uppercase;
+	font-family: helvetica;	
+	font-size: 50px;
+	font-weight: 300;
+	color: #ceb9fc;
+	position: absolute;
+	text-align: center;
+	top: 65%;
+	left: 50%;
+	width: 100%;
+	transform: translate(-50%, -50%);
+}
+
+.nine{
+	text-transform: uppercase;
+	font-family: helvetica;	
+	font-size: 50px;
+	font-weight: 300;
+	color: #622be4;
+	position: absolute;
+	text-align: center;
+	top: 70%;
+	left: 50%;
+	width: 100%;
+	transform: translate(-50%, -50%);
+}

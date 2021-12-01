@@ -1,0 +1,12 @@
+h1 {
+    font-family:"Courier New", Courier, monospace;
+    font-size: 500px;
+    letter-spacing: 145px;
+    word-spacing: -5px;
+    color: #0c7f4f;
+    font-weight: 700;
+    text-decoration: none solid rgb(24, 185, 110);
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;
+    }

@@ -1,0 +1,31 @@
+h1 {font-family: "Lucida Console", Monaco, monospace;
+    font-size: 26px;
+    letter-spacing: -1.6px;
+    word-spacing: 6px;
+color: thistle;
+}
+    
+
+    h2 {font-family: "Lucida Console", Monaco, monospace;
+        font-size: 36px;
+        letter-spacing: -1.6px;
+        word-spacing: 6px;
+    color: rgb(218, 166, 218);}
+
+        h3 {font-family: "Lucida Console", Monaco, monospace;
+            font-size: 46px;
+            letter-spacing: -1.6px;
+            word-spacing: 6px;
+            color: rgb(216, 133, 216);}
+            
+            h4 {font-family: "Lucida Console", Monaco, monospace;
+                font-size: 56px;
+                letter-spacing: -1.6px;
+                word-spacing: 6px;
+                color: rgb(214, 83, 214);}
+
+                p{font-family: "Lucida Console", Monaco, monospace;
+                    font-size: 16px;
+                    letter-spacing: -1.6px;
+                    word-spacing: 6px;
+                    color: rgb(240, 224, 240);}

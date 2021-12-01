@@ -1,0 +1,92 @@
+
+body {
+  background: rgb(255, 253, 251);
+  padding-top: 10px;
+  display:flex;
+  justify-content: center;
+}
+
+
+.typewriter {
+  color: rgb(122, 149, 235);
+  font-family: "Courier New", Courier, monospace;
+  font-size: 50px;
+  
+  
+  white-space: normal; 
+  margin: 0 auto; 
+  letter-spacing: 10px;
+  animation: 
+    typing 4s steps(20, end),
+    blink-caret .5s step-end infinite;
+}
+
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+
+
+
+
+body {
+  background: rgb(255, 253, 251);
+  padding-top: 10px;
+  display:flex;
+  justify-content: center;
+}
+
+
+.typewriter2  {
+  padding-top: 10px;
+  color: rgb(64, 89, 170);
+  font-family: "Courier New", Courier, monospace;
+  font-size: 100px;
+  
+  
+  white-space: normal; 
+  margin: 0 auto; 
+  letter-spacing: 20px;
+  animation: 
+    typing 3s steps(20, end),
+    blink-caret .5s step-end infinite;
+}
+
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+
+body {
+  background: rgb(255, 253, 251);
+  padding-top: 10px;
+  display:flex;
+  justify-content: center;
+}
+
+
+.typewriter3  {
+  padding-top: 10px;
+  color: rgb(64, 89, 170);
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+
+  
+  white-space: normal; 
+  margin: 0 auto; 
+  letter-spacing: 3px;
+  animation: 
+    typing 6s steps(20, end),
+    blink-caret .5s step-end infinite;
+}
+
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
