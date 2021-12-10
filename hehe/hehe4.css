@@ -18,4 +18,16 @@ body {
     width: 100%;
 }
 
+.button {
+	background-color:transparent;
+	border-radius:38px;
+	display:inline-block;
+	cursor:pointer;
+	color:#4c6b55;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    text-align: center;
+    font-size: 30px;
 
+text-decoration:none;
+}
